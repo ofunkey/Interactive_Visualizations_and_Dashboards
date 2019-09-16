@@ -1,5 +1,5 @@
 # Interactive Visualizations and Dashboards
-![Bacteria by filterforge.com](Images/bacteria_by_filterforgedotcom.jpg)
+![Bacteria by filterforge.com](Images/Interactive_Visualizations_and_Dashboards/bacteria_by_filterforgedotcom.jpg)
 An interactive dashboard to explore the [Belly Button Biodiversity DataSet](http://robdunnlab.com/projects/belly-button-biodiversity/).
 
 ## 1 - App.js
@@ -9,7 +9,7 @@ Use Plotly.js to build interactive charts for the dashboard.
   * Use `otu_ids` as the labels for the pie chart.
   * Use `otu_labels` as the hovertext for the chart.
 
-![PIE Chart](Images/pie_chart.png)
+![PIE Chart](Images/Interactive_Visualizations_and_Dashboards/pie_chart.png)
   
 * Create a Bubble Chart that uses data from the samples route (`/samples/<sample>`) to display each sample.
   * Use `otu_ids` for the x values.
@@ -18,7 +18,7 @@ Use Plotly.js to build interactive charts for the dashboard.
   * Use `otu_ids` for the marker colors.
   * Use `otu_labels` for the text values.
   
-  ![Bubble Chart](Images/bubble_chart.png)
+  ![Bubble Chart](Images/Interactive_Visualizations_and_Dashboards/bubble_chart.png)
   
 * Display the sample metadata from the route `/metadata/<sample>`
   * Display each key/value pair from the metadata JSON object somewhere on the page.
@@ -27,4 +27,4 @@ Use Plotly.js to build interactive charts for the dashboard.
 ## 2 - Heroku
   * Deploy the Flask app to Heroku.
   
-![Deployed_Page](Images/Belly_Button_Biodiversity_Dashboard.png)
+![Deployed_Page](Images/Interactive_Visualizations_and_Dashboards/Belly_Button_Biodiversity_Dashboard.png)
