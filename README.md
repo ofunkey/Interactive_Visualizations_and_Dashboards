@@ -1,4 +1,4 @@
-# Interactive Visualizations and Dashboards
+# Belly Button Biodiversity
 ![Bacteria by filterforge.com](Interactive_Visualizations_and_Dashboards/Images/bacteria_by_filterforgedotcom.jpg)
 
 An interactive dashboard to explore the [Belly Button Biodiversity DataSet](http://robdunnlab.com/projects/belly-button-biodiversity/).
