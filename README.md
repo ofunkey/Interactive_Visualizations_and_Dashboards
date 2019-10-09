@@ -31,4 +31,4 @@ Use Plotly.js to build interactive charts for the dashboard.
 ![Deployed_Page](Interactive_Visualizations_and_Dashboards/Images/Belly_Button_Biodiversity_Dashboard.png)
 
 
-## Funke Olaleye | Data Analytics and Visualization
+### Funke Olaleye | Data Analytics and Visualization
